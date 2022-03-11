@@ -1,0 +1,25 @@
+body {
+    background-color: peachpuff;
+  }
+  
+  h1 {
+      color:Tomato;
+    }
+
+  h2 {
+      color:Green;
+  }
+ 
+  table, th, td {
+    border: 1px solid; color:green;
+  }
+  
+  img {
+    border-radius: 8px;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
